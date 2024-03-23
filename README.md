@@ -28,7 +28,6 @@
   <img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/63164a4a-f913-49d6-b29d-63c77c6080b2" alt="Azure" title="Azure"/>
   <img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/a8ca1346-62fc-4cde-9e2e-7b21e250b649" alt="Azure DevOps" title="Azure DevOps"/>
   <img width="40" src="https://www.cypress.io/apple-touch-icon.png" alt="Cypress" title="Cypress"/>
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>

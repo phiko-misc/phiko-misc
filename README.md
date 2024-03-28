@@ -26,7 +26,7 @@
   [<img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>](https://github.com/)
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/63164a4a-f913-49d6-b29d-63c77c6080b2" alt="Azure" title="Azure"/>](https://azure.microsoft.com)
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/a8ca1346-62fc-4cde-9e2e-7b21e250b649" alt="Azure DevOps" title="Azure DevOps"/>](https://azure.microsoft.com/products/devops/)
-  [<img width="40" src="https://www.cypress.io/apple-touch-icon.png" alt="Cypress" title="Cypress"/>](https://www.cypress.io/)
+  [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/a39dc492-6ede-4992-ab52-6afb342408ae" alt="Cypress" title="Cypress"/>](https://www.cypress.io/)
   [<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>](https://www.mysql.com/)
   [<img width="40" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/>](https://wordpress.org/)
   [<img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>](https://dotnet.microsoft.com/)

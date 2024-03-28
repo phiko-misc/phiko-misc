@@ -1,9 +1,7 @@
 ### Technologies I Work With
 
-<p float="left">
-  <a href="https://react.dev/">
-    <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-  </a>
+<!-- <p float="left"> -->
+  [<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>](https://react.dev/)
   <a href="https://nextjs.org/">
     <img width="40" src="https://user-images.githubusercontent.com/136815194/254798345-5f8c622c-c217-4649-b0a9-7e0ee24bd704.png" alt="Next.js" title="Next.js"/>
   </a>
@@ -121,4 +119,4 @@
   <a href="https://snyk.io/">
     <img width="40" src="https://res.cloudinary.com/snyk/image/upload/v1537345891/press-kit/brand/avatar-transparent.png" alt="Snyk" title="Snyk">
   </a>
-</p>
+<!-- </p> -->

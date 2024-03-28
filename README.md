@@ -3,6 +3,8 @@
   [<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>](https://react.dev/)
   [<img width="40" src="https://user-images.githubusercontent.com/136815194/254798345-5f8c622c-c217-4649-b0a9-7e0ee24bd704.png" alt="Next.js" title="Next.js"/>](https://nextjs.org/)
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/d2106981-f060-495d-bba7-dad0df5aa47d" alt="Angular" title="Angular"/>](https://angular.io/)
+  [<img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org/)
+  [<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>](https://developer.mozilla.org/docs/Web/JavaScript)
 <p float="left">
   <a href="https://react.dev/">
     <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>

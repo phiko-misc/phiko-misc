@@ -118,4 +118,7 @@
   <a href="https://www.atlassian.com/software/confluence">
     <img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/bfa0f636-be14-482d-80de-938448d59a32" alt="Confluence" title="Confluence">
   </a>
+  <a href="https://snyk.io/">
+    <img width="40" src="https://res.cloudinary.com/snyk/image/upload/v1537345891/press-kit/brand/avatar-transparent.png" alt="Snyk" title="Snyk">
+  </a>
 </p>

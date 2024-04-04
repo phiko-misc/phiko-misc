@@ -40,3 +40,14 @@
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/47d25173-4c0c-46c8-bb82-fd3238fbab29" alt="Atlassian Forge" title="Atlassian Forge"/>](https://developer.atlassian.com/platform/forge/)
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/bfa0f636-be14-482d-80de-938448d59a32" alt="Confluence" title="Confluence">](https://www.atlassian.com/software/confluence)
   [<img width="40" src="https://res.cloudinary.com/snyk/image/upload/v1537345891/press-kit/brand/avatar-transparent.png" alt="Snyk" title="Snyk">](https://snyk.io/)
+
+
+## 📈 Statistics
+
+Give my repositories some 💖 by giving them a ⭐️!
+
+<div>
+<img alt="Top Langs" height="158vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phiko-misc&hide=html&layout=compact&theme=tokyonight">
+<img alt="phiko-misc GitHub stats" height="146vh" src="https://github-readme-stats.vercel.app/api?username=phiko-misc&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight">
+</div>
+

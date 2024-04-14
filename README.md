@@ -43,6 +43,7 @@
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/47d25173-4c0c-46c8-bb82-fd3238fbab29" alt="Atlassian Forge" title="Atlassian Forge"/>](https://developer.atlassian.com/platform/forge/)
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/bfa0f636-be14-482d-80de-938448d59a32" alt="Confluence" title="Confluence">](https://www.atlassian.com/software/confluence)
   [<img width="40" src="https://res.cloudinary.com/snyk/image/upload/v1537345891/press-kit/brand/avatar-transparent.png" alt="Snyk" title="Snyk">](https://snyk.io/)
+  [<img width="40" src="./img/OS-Linux-icon.png" alt="Linux" title="Linux">](https://www.linux.org/)
 
 
 ## 📈 Statistics

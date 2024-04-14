@@ -1,4 +1,7 @@
-## Technologies I Work With
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2000&center=true&vCenter=true&random=false&width=437&lines=Hello+There;Hello+World)](https://git.io/typing-svg)
+
+
+## 🔨 Languages and Tools:
 
   [<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>](https://react.dev/)
   [<img width="40" src="https://user-images.githubusercontent.com/136815194/254798345-5f8c622c-c217-4649-b0a9-7e0ee24bd704.png" alt="Next.js" title="Next.js"/>](https://nextjs.org/)

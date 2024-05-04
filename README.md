@@ -56,3 +56,5 @@ Give my repositories some 💖 by giving them a ⭐️!
 <img alt="phiko-misc GitHub stats" height="146vh" src="https://github-readme-stats.vercel.app/api?username=phiko-misc&count_private=true&hide_border=false&hide_title=false&include_all_commits=true&show_icons=true&theme=tokyonight">
 </div>
 
+## 🧮 Profile visitor count
+<img src="https://profile-counter.glitch.me/phiko-misc/count.svg?"  />

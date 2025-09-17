@@ -45,6 +45,7 @@
   [<img width="40" src="https://github.com/phiko-misc/phiko-misc/assets/18640250/bfa0f636-be14-482d-80de-938448d59a32" alt="Confluence" title="Confluence">](https://www.atlassian.com/software/confluence)
   [<img width="40" src="https://res.cloudinary.com/snyk/image/upload/v1537345891/press-kit/brand/avatar-transparent.png" alt="Snyk" title="Snyk">](https://snyk.io/)
   [<img width="40" src="./img/OS-Linux-icon.png" alt="Linux" title="Linux">](https://www.linux.org/)
+  [<img width="40" src="./img/Gravitee NEW logo-1.webp" alt="Gravitee API Gateway" title="Gravitee">](https://www.gravitee.io/)
 
 
 ## 📈 Statistics
